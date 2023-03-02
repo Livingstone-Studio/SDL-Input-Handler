@@ -15,7 +15,7 @@ SDL_Renderer* m_renderer;
 	Don't forget to be clicked into
 	the window before testing inputs.
 		  I kept forgetting...
-
+		   
 --------------------------------------------
 */
 
